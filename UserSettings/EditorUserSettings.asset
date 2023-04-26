@@ -21,7 +21,11 @@ EditorUserSettings:
       value: 5a0001005c000a08540c0a7548775b444715407a7f292461282d4537b7e1653a
       flags: 0
     RecentlyUsedSceneGuid-5:
+<<<<<<< HEAD
       value: 015302070457085f5f5c5821407359441216407f797b2560797c486ae0b03561
+=======
+      value: 5b005604500208090b0a0a2342710a44414e4e732a7b76687a7a4962e4e2663e
+>>>>>>> AutoLightingÜbung
       flags: 0
     vcSharedLogLevel:
       value: 0d5e400f0650
