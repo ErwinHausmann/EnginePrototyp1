@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2755688741451233306}
   - component: {fileID: 1887765182518514663}
   - component: {fileID: 6077268597770160047}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: UI_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4829,7 +4829,7 @@ GameObject:
   - component: {fileID: 5098958286524437379}
   - component: {fileID: 4200439540171157692}
   - component: {fileID: 2011011997899954932}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Animation_ctrl
   m_TagString: Untagged
   m_Icon: {fileID: 0}
