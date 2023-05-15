@@ -51,7 +51,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Contrast: 1
+    - _Contrast: 1.13
+    - _GeneralWaveSpeed: 0.001
     - _Gloss: 1
     - _Metallic: 1
     - _QueueControl: 0
@@ -60,6 +61,10 @@ Material:
     - _RipplesDissolve: 5
     - _Speed: 0.05
     - _TReppleSpeed: 1
+    - _WaveHeight: 1
+    - _WaveScaling: 1000
+    - _WaveSpeedA: 1
+    - _WaveSpeedB: 1
     m_Colors:
     - _BaseColor: {r: 0.07445706, g: 0.3626671, b: 0.8396226, a: 0}
     - _RippleColor: {r: 0, g: 1, b: 0.9708953, a: 0}
