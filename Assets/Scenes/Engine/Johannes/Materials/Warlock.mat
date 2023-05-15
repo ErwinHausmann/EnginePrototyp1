@@ -37,6 +37,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: 4959e705488001a48aa2de88b0431ec5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_4f113c2488224b868d29edf70892984e_Out_0:
+        m_Texture: {fileID: 2800000, guid: 4959e705488001a48aa2de88b0431ec5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -55,10 +59,13 @@ Material:
     - _FalloffAmount: 0.05
     - _FresnelSize: 0.1
     - _LightingCutoff: 0
+    - _Power: 2
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Smoothness: 10000
     m_Colors:
+    - _Color_1: {r: 0.054901965, g: 0.039215688, b: 0.027450982, a: 0}
+    - _Color_2: {r: 0.7843138, g: 0.6862745, b: 0.6156863, a: 0}
     - _DiffuseColor: {r: 1, g: 1, b: 1, a: 1}
     - _FresnelColor: {r: 1, g: 1, b: 1, a: 1}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
