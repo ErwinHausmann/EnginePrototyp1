@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18154618, g: 0.22718845, b: 0.30740732, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -200,14 +200,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1090668448}
-  m_LocalRotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 2.5, y: 1.25, z: 0}
+  m_LocalRotation: {x: 0.15277666, y: -0.6904052, z: 0.15277664, w: 0.6904052}
+  m_LocalPosition: {x: 2.5, y: 3.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
+  m_LocalEulerAnglesHint: {x: 24.955, y: -90, z: 0}
 --- !u!114 &1090668452
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -328,14 +328,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2089636608}
-  m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
-  m_LocalPosition: {x: 0, y: 3, z: 0}
+  m_LocalRotation: {x: 0.3736123, y: -0.19996405, z: 0.082827814, w: 0.90198}
+  m_LocalPosition: {x: 0, y: 5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+  m_LocalEulerAnglesHint: {x: 45, y: -25, z: 0}
 --- !u!114 &2089636611
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -365,7 +365,7 @@ Transform:
   m_GameObject: {fileID: 951595936398449097}
   m_LocalRotation: {x: -0.5, y: 0.5, z: 0.5, w: 0.5}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 50, y: 50, z: 50}
+  m_LocalScale: {x: 100, y: 100, z: 100}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
@@ -382,7 +382,7 @@ GameObject:
   - component: {fileID: 468215871652512627}
   - component: {fileID: 3589567156590955734}
   - component: {fileID: 1599977462418356252}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: warlock_fin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -409,8 +409,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: f68fedbd7bcc55b4e8524ed55ecc35c3, type: 2}
-  - {fileID: 2100000, guid: 0a3a2f862a3c7a7418b77c41b4d8448b, type: 2}
+  - {fileID: 2100000, guid: ff5f4637396ffa14896df25ad055e23f, type: 2}
+  - {fileID: 2100000, guid: 22625dd68c9e7584ca6e0f32d3670a19, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
