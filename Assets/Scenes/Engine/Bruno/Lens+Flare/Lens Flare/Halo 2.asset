@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 877e1507ae8d81c40bf1b94c1a86036f, type: 3}
-  m_Name: New Lens Flare (SRP)
+  m_Name: Halo 2
   m_EditorClassIdentifier: 
   elements:
   - visible: 1
@@ -18,22 +18,22 @@ MonoBehaviour:
     positionOffset: {x: 0, y: 0}
     angularOffset: 0
     translationScale: {x: 1, y: 1}
-    m_LocalIntensity: 1.1
+    m_LocalIntensity: 4.56
     lensFlareTexture: {fileID: 0}
     uniformScale: 1
     sizeXY: {x: 1, y: 1}
-    allowMultipleElement: 0
+    allowMultipleElement: 1
     m_Count: 5
     preserveAspectRatio: 0
     rotation: 0
-    tint: {r: 1, g: 0.069811285, b: 0.069811285, a: 0.5}
+    tint: {r: 1, g: 1, b: 1, a: 0.5}
     blendMode: 0
     autoRotate: 0
-    flareType: 1
+    flareType: 2
     modulateByLightColor: 0
     isFoldOpened: 1
     distribution: 0
-    lengthSpread: 1
+    lengthSpread: 0.27
     positionCurve:
       serializedVersion: 2
       m_Curve:
@@ -145,8 +145,8 @@ MonoBehaviour:
     distortionRelativeToCenter: 0
     m_FallOff: 1
     m_EdgeOffset: 0.1
-    m_SideCount: 6
-    m_SdfRoundness: 0
+    m_SideCount: 3
+    m_SdfRoundness: 0.214
     inverseSDF: 0
     uniformAngle: 0
     uniformAngleCurve:
